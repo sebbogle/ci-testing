@@ -1,4 +1,4 @@
 function sum(a, b) {
-    return a + b + 1; // This should cause a fail.
+    return a + b;
   }
   module.exports = sum;

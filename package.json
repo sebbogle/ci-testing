@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sebbogle/ci-testing#readme",
   "devDependencies": {
-    "jest": "^27.0.4"
+    "jest": "^27.0.4",
+    "playwright": "^1.11.1"
   }
 }
